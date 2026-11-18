@@ -5,3 +5,4 @@ wrangler.toml
 .gitignore
 Portfolio.html
 index.backup.html
+.claude
